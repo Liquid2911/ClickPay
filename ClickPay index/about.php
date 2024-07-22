@@ -66,7 +66,7 @@
                     <h2>
                     </h2>
                     <h3>
-                        ...................................................... Hamm to BGMI khelenge ......................................................
+                        i am very successful Developer and i created Clickpay website for xyz company.
                     </h3>
                 </div>
             </div>
